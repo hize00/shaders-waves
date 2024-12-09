@@ -8,24 +8,30 @@ A shader takes this data, along with a position, and calculates the color of a p
 
 ## Woozy Ovals
 [Watch the video](https://youtu.be/DRowt9080KE)
+
 **Track:** Caldera - Dolphin Skii
 
 ## Bedouin Dream
 [Watch the video](https://youtu.be/ziAA-4rLX_0)
+
 **Track:** mu_he - Free Mind (DJ Shufflemaster Remix)
 
 ## Psych Kernel
 [Watch the video](https://youtu.be/aJbwspLPSnU)
+
 **Track:** Invexis - Elektronenwind
 
 ## Mirrored Circles
 [Watch the video](https://youtu.be/s4b5UPGLoCY)
-**Track:** Hiver - Entangle*
+
+**Track:** Hiver - Entangle
 
 ## Matrix Simulation
 [Watch the video](https://youtu.be/GZzHaUS0zdU)
-**Track:** Grindvik - Lightstorm*
 
+**Track:** Grindvik - Lightstorm
+
+---
 
 ### Credits
 - https://www.shadertoy.com/new
